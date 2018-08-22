@@ -1,0 +1,20 @@
+{
+  "port": "/dev/ttyUSB0",
+  "controllerImage": "controller.png",
+  "selectedImage": "selected.png",
+  "border": 20,
+  "buttons": [
+    {"name": "B", "x": 574, "y": 266},
+    {"name": "Y", "x": 510, "y": 205},
+    {"name": "Select", "x": 320, "y": 230},
+    {"name": "Start", "x": 395, "y": 230},
+    {"name": "Up", "x": 167, "y": 170},
+    {"name": "Down", "x": 167, "y": 250},
+    {"name": "Left", "x": 127, "y": 210},
+    {"name": "Right", "x": 207, "y": 210},
+    {"name": "A", "x": 627, "y": 212},
+    {"name": "X", "x": 563, "y": 152},
+    {"name": "L", "x": 150, "y": 70},
+    {"name": "R", "x": 590, "y": 70}
+  ]
+}
