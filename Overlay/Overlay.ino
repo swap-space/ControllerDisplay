@@ -1,3 +1,6 @@
+// 3 signals from the SNES controller bus must be connected to the following pins
+// of the arduino. I recommend chopping a snes extension cable in half and tapping signals from that.
+
 #define dataLatchPin 2
 #define dataClockPin 3
 #define dataPin 4
